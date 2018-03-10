@@ -1,0 +1,15 @@
+{
+    "title": "Project 555",
+    "baseURL": "https:\/\/videos.project555.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758823",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "project555.com"
+    }
+}
